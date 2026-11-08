@@ -3,7 +3,5 @@
 - 📫 How to reach me: simon@pellegrom.org.
 - 👀 Preferred language: Dutch or English
 
-You're not going to find an extended profile page which took hours to write, this "readme" merely exists as a place to drop my contact information, 
+You're not going to find a huge profile page which took hours to write, this "readme" merely exists as a place to drop my contact information, 
 but feel free to drop me a line if you want to talk about something. 
-
-Please direct questions or issues **regarding Minecraft plugins** in the appropriate sections on Github or SpigotMC.org resource discussions. 
